@@ -1,0 +1,28 @@
+.outer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  height: 100vh;
+}
+
+
+.box{
+  width: 300px;
+  height: 300px;
+  margin: 150px auto;
+
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -130px;
+}
+
+.container button{
+  font-size: 20px;
+  padding: 10px;
+
+}
